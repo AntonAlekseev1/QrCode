@@ -26,5 +26,6 @@ hs_err_pid*
 
 .png
 .jpeg
-/target/
-/.idea/
+target/
+.idea/
+*.iml
